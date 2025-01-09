@@ -1,8 +1,4 @@
-# Jot
-Team Jot: EECS 330 HCI
-P8: Final Report
-May Li, Margot Sobota, James White, 
-Alejandro Malavet, Daniel Hernandez
+
 
 
 <h2> PROBLEM & RELATED WORK</h2>
